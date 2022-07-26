@@ -1,5 +1,5 @@
 # Guessing Game
-The program generates a random 4-digit number but does not tell the user. It allows the user to continue guessing until they get it correct. 
+The program generates a random 4-digit number but does not tell the user. It allows the user to continue guessing until they get it correct. After the game is finishesd, the user is asked whether or not they want to play again, and if yes, the game starts over with a new number. 
 
 ## Input
 The only input this program requires are the users guesses for the 4-digit number and whether or not the user wants to continue playing after the game is finished running. 
